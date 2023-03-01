@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
 
 
         button_login.setOnClickListener {
-            //ngapain...
             Toast.makeText(this@MainActivity, "Login Success", Toast.LENGTH_SHORT).show()
 
         }
